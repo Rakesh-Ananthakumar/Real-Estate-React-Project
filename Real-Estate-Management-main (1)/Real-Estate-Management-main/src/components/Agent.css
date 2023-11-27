@@ -1,0 +1,19 @@
+.Agent-container{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+    margin-left: 16%;
+}
+.Agent-Box img{
+    border-radius: 10px;
+    width: 80%;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    /* height: 280px; */
+}
+.Agent-Content{
+    padding: 5px;
+}
+.Agent-contact{
+    align-items: normal;
+}

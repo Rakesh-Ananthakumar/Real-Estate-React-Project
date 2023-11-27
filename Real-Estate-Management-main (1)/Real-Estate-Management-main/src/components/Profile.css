@@ -1,0 +1,22 @@
+.Profile-Container{
+    display: grid;
+    grid-template-columns: 25% 50%;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 170px;
+}
+.Profile-Info {
+    grid-row-end: span 2;
+}
+.Profile-About{
+    width: 70%;
+    background-color: lightgrey;
+    padding: 25px;
+}
+td{
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+.Profile-About h5{
+    padding: 5px 10px;
+}

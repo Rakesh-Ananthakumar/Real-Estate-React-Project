@@ -1,0 +1,50 @@
+.Details-Container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 15px;
+    padding-left: 220px;
+    padding-top: 20px;
+    height: 675px;
+}
+.Image-Container .Views{
+    background-color: white;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 5px;
+    border: 0;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.More-Image_Container img{
+    border: 0;
+    margin-bottom: 10px;
+}
+.Image-Container .Compare{
+    background-color: white;
+    border-radius: 5px;
+    border: 0;
+    position:absolute;
+    left:498px;
+    top: 8px; 
+}
+.share{
+    background-color: white;
+    border-radius: 100%;
+    padding: 2px;
+    border: 0;
+    position:absolute;
+    left:618px;
+    top: 10px; 
+}
+.Details button{
+    background-color:lightgreen;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 0;
+    margin-right: 20px;
+}
+.Image-Container{
+    margin-left: 10px;
+}

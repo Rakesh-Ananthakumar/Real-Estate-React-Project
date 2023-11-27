@@ -1,0 +1,12 @@
+#image{
+    width: 800 px;
+    height: 800px;
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+}
+.box{
+    width: 200px;
+    height: 100 px;
+}

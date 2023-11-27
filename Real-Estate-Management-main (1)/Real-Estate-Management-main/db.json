@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "firstName": "Pugazh",
+      "lastName": "Thangam",
+      "email": "727722euit139@skcet.ac.in",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "firstName": "Prakash",
+      "lastName": "M",
+      "email": "727722euit130@skcet.ac.in",
+      "password": "perkas",
+      "id": 3
+    },
+    {
+      "firstName": "Rakesh",
+      "lastName": "A",
+      "email": "727722euit142@skcet.ac.in",
+      "password": "rakss",
+      "id": 4
+    },
+    {
+      "firstName": "Gopal",
+      "lastName": "Kumaran",
+      "email": "Gopal@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "firstName": "Pugazh",
+      "lastName": "Kumaran",
+      "email": "pugal@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "firstName": "Prajan",
+      "lastName": "Ravi",
+      "email": "prajan@gmail.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "firstName": "Naveen ",
+      "lastName": "Kumar",
+      "email": "naveen@gmail.com",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    }
+  ]
+}
